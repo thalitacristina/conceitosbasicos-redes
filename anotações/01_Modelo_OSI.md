@@ -1,4 +1,4 @@
-# 🌐 Modelo OSI (*Open Systems Interconnection*)
+#  Modelo OSI (*Open Systems Interconnection*)
 
 O **Modelo OSI** é um modelo conceitual de 7 camadas criado pela ISO para padronizar e facilitar o entendimento do funcionamento das redes de computadores.
 
