@@ -1,4 +1,4 @@
-## Sistema de Nomes de Domínio (DNS)
+# Sistema de Nomes de Domínio (DNS)
 
 O **DNS** (*Domain Name System*) é um dos serviços mais fundamentais da internet (operando na Camada de Aplicação do Modelo OSI, porta UDP/TCP 53). Sua função principal é traduzir nomes de domínio amigáveis para humanos (como `www.google.com`) em endereços IP numéricos que os computadores utilizam para se comunicar (como `142.250.190.46`).
 
