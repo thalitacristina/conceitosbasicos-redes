@@ -1,4 +1,4 @@
-# 🌐 Aula 03 – Endereçamento IPv4, Classes e DHCP
+#  Endereçamento IPv4, IPV6, Classes e DHCP
 
 O **IPv4** (*Internet Protocol version 4*) é o protocolo responsável por identificar unicamente cada dispositivo conectado a uma rede de computadores, permitindo o roteamento e a troca de dados entre eles.
 
