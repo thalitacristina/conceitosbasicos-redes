@@ -58,11 +58,11 @@ Além do Endereço IP, o servidor DHCP envia um pacote de informações fundamen
 * **Solicitar novo IP via DHCP:**
   ```cmd
   ipconfig /renew
-Liberar o IP atual:
+* **Liberar o IP atual:**
+  ```cmd
+  ipconfig /release
+* **Verificar servidor DHCP atual:**
 
-DOS
-ipconfig /release
-Verificar servidor DHCP atual:
+  ```cmd
+  ipconfig /all
 
-DOS
-ipconfig /all
