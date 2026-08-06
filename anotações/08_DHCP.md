@@ -1,4 +1,4 @@
-# 🔄 Aula 08 – Protocolo DHCP e Atribuição Dinâmica de IPs
+# Protocolo DHCP e Atribuição Dinâmica de IPs
 
 O **DHCP** (*Dynamic Host Configuration Protocol*) é um protocolo da Camada de Aplicação (operando sobre a camada de Transporte com portas UDP 67 e 68) responsável por **automatizar a distribuição e o gerenciamento de configurações de IP** para os dispositivos conectados à rede.
 
