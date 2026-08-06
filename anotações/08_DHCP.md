@@ -59,10 +59,10 @@ Além do Endereço IP, o servidor DHCP envia um pacote de informações fundamen
   ```cmd
   ipconfig /renew
 * **Liberar o IP atual:**
-  ```cmd
+  ```DOS
   ipconfig /release
 * **Verificar servidor DHCP atual:**
 
-  ```cmd
+  ```DOS
   ipconfig /all
 
