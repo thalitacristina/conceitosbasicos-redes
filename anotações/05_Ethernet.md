@@ -1,4 +1,4 @@
-# ⚡ Padrão Ethernet e Meios de Transmissão
+# Padrão Ethernet e Meios de Transmissão
 
 O **Ethernet** é a tecnologia padrão mais amplamente utilizada em redes locais cabeadas (**LANs**). Ele define regras de formatação de dados, controle de acesso ao meio e especificações físicas para a transmissão de informações na camada de Enlace e Física do Modelo OSI.
 
