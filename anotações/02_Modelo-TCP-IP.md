@@ -1,4 +1,4 @@
-# 🌐 Modelo TCP/IP
+#  Modelo TCP/IP
 
 O **Modelo TCP/IP** é a arquitetura prática de rede utilizada na internet real. Ao contrário do modelo teórico OSI (de 7 camadas), o TCP/IP é mais conciso e focado na implementação funcional da comunicação de dados.
 
